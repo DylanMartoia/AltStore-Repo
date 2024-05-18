@@ -7,6 +7,7 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Example Developer",
             "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
             "versions": [
                 {
                     "version": "1.0",
@@ -21,6 +22,7 @@
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Example Developer",
             "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png",
             "versions": [
                 {
                     "version": "3.0",
