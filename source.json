@@ -1,0 +1,30 @@
+{
+    "name": "Dylan Martoïa",
+    "tintColor": "#4185A9",
+    "apps": [
+        {
+            "name": "uYou+",
+            "bundleIdentifier": "com.google.ios.youtube",
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2024-05-18",
+                    "size": 20000000,
+                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                }
+            ],
+            "name": "EeveeSpotify",
+            "bundleIdentifier": "com.spotify.client",
+            ],
+            "versions": [
+                {
+                    "version": "3.0",
+                    "date": "2024-05-18",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift3.0/EeveeSpotify-3.0-8.9.38.ipa",
+                }
+            ],
+        },
+    ],
+}
