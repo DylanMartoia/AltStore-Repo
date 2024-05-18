@@ -5,7 +5,6 @@
         {
             "name": "uYou+",
             "bundleIdentifier": "com.google.ios.youtube",
-            ],
             "versions": [
                 {
                     "version": "1.0",
@@ -14,9 +13,10 @@
                     "downloadURL": "https://example.com/myapp_v1.1.ipa",
                 }
             ],
+        },
+        {
             "name": "EeveeSpotify",
             "bundleIdentifier": "com.spotify.client",
-            ],
             "versions": [
                 {
                     "version": "3.0",
