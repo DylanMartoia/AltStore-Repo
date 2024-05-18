@@ -5,6 +5,7 @@
         {
             "name": "uYou+",
             "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Example Developer",
             "versions": [
                 {
                     "version": "1.0",
@@ -17,6 +18,7 @@
         {
             "name": "EeveeSpotify",
             "bundleIdentifier": "com.spotify.client",
+            "developerName": "Example Developer",
             "versions": [
                 {
                     "version": "3.0",
