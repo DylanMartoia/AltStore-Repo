@@ -11,24 +11,9 @@
             "versions": [
                 {
                     "version": "19.16.3",
-                    "date": "2024-05-18",
+                    "date": "2024-06-01",
                     "size": 20000000,
-                    "downloadURL": "https://github.com/DylanMartoia/uYouPlus/releases/download/v19.16.3-3.0.3-(8)/uYouPlus_19.16.3-3.0.3.ipa",
-                }
-            ],
-        },
-        {
-            "name": "EeveeSpotify",
-            "bundleIdentifier": "com.spotify.client",
-            "developerName": "Example Developer",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png",
-            "versions": [
-                {
-                    "version": "8.9.38",
-                    "date": "2024-05-18",
-                    "size": 20000000,
-                    "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift3.0/EeveeSpotify-3.0-8.9.38.ipa",
+                    "downloadURL": "https://github.com/DylanMartoia/uYouPlus/releases/download/v19.16.3-3.0.3/uYouPlus_19.16.3-3.0.3.ipa",
                 }
             ],
         },
