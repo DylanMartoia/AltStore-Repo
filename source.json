@@ -10,6 +10,12 @@
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
             "versions": [
                 {
+                    "version": "19.25.4",
+                    "date": "2024-09-08",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/DylanMartoia/uYouPlus/releases/download/v19.25.4-3.0.3/uYouPlus_19.25.4-3.0.3.ipa",
+                },
+                {
                     "version": "19.16.3",
                     "date": "2024-06-01",
                     "size": 20000000,
