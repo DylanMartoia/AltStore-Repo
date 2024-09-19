@@ -46,7 +46,7 @@
                     "NSLocalNetworkUsageDescription": "Ok zoomer.",
                     "NSLocationWhenInUseUsageDescription": "Ok zoomer.",
                     "NSPhotoLibraryUsageDescription": "Ok zoomer.",
-                    "NSuserTrackingUsageDescription": "Ok zoomer.",
+                    "NSUserTrackingUsageDescription": "Ok zoomer.",
                     "NSAppleMusicUsageDescription": "Ok zoomer.",
                     "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
                     "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
