@@ -37,7 +37,7 @@
                     "com.apple.developer.networking.wifi-info"
                 ],
                 "privacy": {
-                    "NSAppleMusicUsageDescription": "",
+                    "NSAppleMusicUsageDescription": "Ok zoomer",
                     "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
                     "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
                     "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
