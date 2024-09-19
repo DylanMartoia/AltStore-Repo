@@ -127,7 +127,8 @@
           "com.apple.developer.networking.wifi-info",
             "com.apple.developer.group-session",
             "com.apple.developer.healthkit",
-            "com.apple.developer.healthkit.access"
+            "com.apple.developer.healthkit.access",
+            "com.apple.developer.game-center"
         ],
         "privacy": {
             "NSAppleMusicUsageDescription": "Ok zoomer.",
@@ -139,6 +140,7 @@
             "NSPhotoLibraryAddUsageDescription": "Ok zoomer.",
             "NSPhotoLibraryUsageDescription": "Ok zoomer.",
             "NSUserTrackingUsageDescription": "Ok zoomer.",
+            "NSLocalNetworkUsageDescription": "Ok zoomer.",
           "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
           "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
           "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
