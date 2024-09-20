@@ -3,11 +3,12 @@
     "tintColor": "#4185A9",
     "apps": [
         {
-            "name": "uYou+",
+            "name": "uYouPlus (uYou+)",
             "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "Example Developer",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
+            "developerName": "MiRO92 & Qn_",
+            "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 14.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
+            "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+            "tintColor": "e85567",
             "versions": [
                 {
                     "version": "19.25.4",
@@ -41,21 +42,21 @@
                     "com.apple.developer.networking.wifi-info"
                 ],
                 "privacy": {
-                    "NSBluetoothPeripheralUsageDescription": "Ok zoomer.",
-                    "NSContactsUsageDescription": "Ok zoomer.",
-                    "NSLocalNetworkUsageDescription": "Ok zoomer.",
-                    "NSLocationWhenInUseUsageDescription": "Ok zoomer.",
-                    "NSPhotoLibraryUsageDescription": "Ok zoomer.",
-                    "NSUserTrackingUsageDescription": "Ok zoomer.",
-                    "NSAppleMusicUsageDescription": "Ok zoomer.",
-                    "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
-                    "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
-                    "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
-                    "NSMusicUsageDescription": "This will let you play your imported music on Spotify.",
-                    "NSBluetoothUsageDescription": "This lets you use Spotify with external accessories.",
-                    "NSNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
-                    "NSFaceidUsageDescription": "This lets you set access restrictions using Face ID.",
-                    "NSMotionUsageDescription": "Used to control your tempo for Spotify Running."
+                    "NSBluetoothPeripheralUsageDescription": "...",
+                    "NSContactsUsageDescription": "...",
+                    "NSLocalNetworkUsageDescription": "...",
+                    "NSLocationWhenInUseUsageDescription": "...",
+                    "NSPhotoLibraryUsageDescription": "...",
+                    "NSUserTrackingUsageDescription": "...",
+                    "NSAppleMusicUsageDescription": "...",
+                    "NSMicrophoneUsageDescription": "...",
+                    "NSCameraUsageDescription": "...",
+                    "NSPhotosUsageDescription": "...",
+                    "NSMusicUsageDescription": "...",
+                    "NSBluetoothUsageDescription": "...",
+                    "NSNetworkUsageDescription": "...",
+                    "NSFaceidUsageDescription": "...",
+                    "NSMotionUsageDescription": "..."
                 }
             },
         },
@@ -63,146 +64,61 @@
             "name": "SpotveeC",
             "bundleIdentifier": "com.yodaluca23.SpotveeC",
             "developerName": "Whoeevee & Asdfzxcvbn",
-      "contact": {
-        "web": "https://github.com/SpotCompiled"
-      },
-      "version": "3.1.7",
-      "versionDate": "2024-9-11",
-      "size": 76094120,
-      "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 5.1, fixed several bugs. Localizations. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.7",
-      "versionDescription": "Updated EeveeSpotify to Swift 5.1, fixed several bugs. Localizations. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.7",
-      "information": [
-        {
-          "item": "Spotify",
-          "version": "v8.9.74",
-          "authors": "Spotify AB",
-          "url": "https://www.spotify.com"
+            "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+            "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
+            "tintColor": "1ed760",
+            "versions": [
+                {
+                    "version": "3.1.8",
+                    "date": "2024-09-20",
+                    "size": 76382049,
+                    "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.8/SpotveeC.v3.1.8_v8.9.76_ALTSTORESOURCE_ONLY.ipa",
+                },
+                {
+                    "version": "3.1.7",
+                    "date": "2024-09-11",
+                    "size": 76094120,
+                    "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.7/SpotveeC.v3.1.7_v8.9.74_ALTSTORESOURCE_ONLY.ipa",
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.carplay-audio",
+                    "com.apple.developer.playable-content",
+                    "keychain-access-groups",
+                    "com.apple.developer.networking.multicast",
+                    "aps-environment",
+                    "com.apple.developer.applesignin",
+                    "com.apple.developer.networking.wifi-info",
+                    "com.apple.developer.group-session",
+                    "com.apple.developer.healthkit",
+                    "com.apple.developer.healthkit.access",
+                    "com.apple.developer.game-center"
+                ],
+                "privacy": {
+                    "NSAppleMusicUsageDescription": "...",
+                    "NSBluetoothAlwaysUsageDescription": "...",
+                    "NSBluetoothPeripheralUsageDescription": "...",
+                    "NSFaceIDUsageDescription": "...",
+                    "NSHealthUpdateUsageDescription": "...",
+                    "NSHealthShareUsageDescription": "...",
+                    "NSPhotoLibraryAddUsageDescription": "...",
+                    "NSPhotoLibraryUsageDescription": "...",
+                    "NSUserTrackingUsageDescription": "...",
+                    "NSLocalNetworkUsageDescription": "...",
+                    "NSMicrophoneUsageDescription": "...",
+                    "NSCameraUsageDescription": "...",
+                    "NSPhotosUsageDescription": "...",
+                    "NSMusicUsageDescription": "...",
+                    "NSBluetoothUsageDescription": "...",
+                    "NSNetworkUsageDescription": "...",
+                    "NSFaceidUsageDescription": "...",
+                    "NSMotionUsageDescription": "..."
+                }
+            },
         },
-        {
-          "item": "EeveeSpotify",
-          "version": "Swift 5.1",
-          "authors": "Whoeevee & Asdfzxcvbn",
-          "url": "https://github.com/whoeevee/EeveeSpotify"
-        },
-        {
-          "item": "Orion Runtime",
-          "version": "v1.0.1",
-          "authors": "Theos Team",
-          "url": "https://orion.theos.dev"
-        },
-        {
-          "item": "SwiftProtobuf Framework",
-          "version": "v1.26.0",
-          "authors": "Apple Inc.",
-          "url": "https://github.com/apple/swift-protobuf"
-        }
-      ],
-      "subtitle": "Spotify Free Premium Tweak",
-      "versions": [
-        {
-          "version": "3.1.7",
-          "date": "2024-9-11",
-          "localizedDescription": "Updated EeveeSpotify to Swift 5.1, fixed several bugs. Localizations. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.7",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.7/SpotveeC.v3.1.7_v8.9.74_ALTSTORESOURCE_ONLY.ipa",
-          "size": 76094120,
-          "minOSVersion": "15.0"
-        },
-      ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.7/SpotveeC.v3.1.7_v8.9.74_ALTSTORESOURCE_ONLY.ipa",
-      "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
-      "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
-      "tintColor": "1ed760",
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups",
-          "com.apple.developer.siri",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.carplay-audio",
-          "com.apple.developer.playable-content",
-          "keychain-access-groups",
-          "com.apple.developer.networking.multicast",
-          "aps-environment",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.wifi-info",
-            "com.apple.developer.group-session",
-            "com.apple.developer.healthkit",
-            "com.apple.developer.healthkit.access",
-            "com.apple.developer.game-center"
-        ],
-        "privacy": {
-            "NSAppleMusicUsageDescription": "Ok zoomer.",
-            "NSBluetoothAlwaysUsageDescription": "Ok zoomer.",
-            "NSBluetoothPeripheralUsageDescription": "Ok zoomer.",
-            "NSFaceIDUsageDescription": "Ok zoomer.",
-            "NSHealthUpdateUsageDescription": "Ok zoomer.",
-            "NSHealthShareUsageDescription": "Ok zoomer.",
-            "NSPhotoLibraryAddUsageDescription": "Ok zoomer.",
-            "NSPhotoLibraryUsageDescription": "Ok zoomer.",
-            "NSUserTrackingUsageDescription": "Ok zoomer.",
-            "NSLocalNetworkUsageDescription": "Ok zoomer.",
-          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
-          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
-          "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
-          "NSMusicUsageDescription": "This will let you play your imported music on Spotify.",
-          "NSBluetoothUsageDescription": "This lets you use Spotify with external accessories.",
-          "NSNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
-          "NSFaceidUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running."
-        }
-      },
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%201.png",
-        "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%202.png",
-        "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%203.png",
-        "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/SpotveeC%20ScreenShot%204.png",
-        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png",
-        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20PlayList%20SS.png",
-        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Library%20View%20SS.png"
-      ],
-      "beta": false,
-      "permissions": [
-        {
-          "type": "music",
-          "usageDescription": "This will let you play your imported music on Spotify."
-        },
-        {
-          "type": "bluetooth",
-          "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
-        },
-        {
-          "type": "camera",
-          "usageDescription": "This lets you scan Spotify Codes."
-        },
-        {
-          "type": "faceid",
-          "usageDescription": "This lets you set access restrictions using Face ID."
-        },
-        {
-          "type": "network",
-          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you control Spotify using your voice."
-        },
-        {
-          "type": "motion",
-          "usageDescription": "We will use this to understand which audio motivates you most."
-        },
-        {
-          "type": "photos",
-          "usageDescription": "This lets you save images to your Photo Library."
-        },
-        {
-          "type": "health",
-          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-        },
-        {
-          "type": "tracking",
-          "usageDescription": "Your data will be used to deliver personalized ads or content to you."
-        }
-      ]
-    },
     ],
 }
