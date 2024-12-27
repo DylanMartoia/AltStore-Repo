@@ -11,6 +11,12 @@
             "tintColor": "e85567",
             "versions": [
                 {
+                    "version": "19.49.7",
+                    "date": "2024-12-27",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/DylanMartoia/uYouPlus/releases/download/v19.49.7-3.0.4/uYouPlus_19.49.7-3.0.4.ipa",
+                },
+                {
                     "version": "19.40.4",
                     "date": "2024-12-01",
                     "size": 20000000,
