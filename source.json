@@ -3,7 +3,7 @@
     "tintColor": "#4185A9",
     "apps": [
         {
-            "name": "YoutubePlus",
+            "name": "Youtube Plus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "dayanch96",
             "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
