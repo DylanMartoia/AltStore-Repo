@@ -11,6 +11,12 @@
             "tintColor": "e85567",
             "versions": [
                 {
+                    "version": "20.10.4",
+                    "date": "2025-06-07",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/DylanMartoia/YTLite/releases/download/5.2b1(2)/YouTubePlus_5.2b1.ipa",
+                },
+                {
                     "version": "20.13.5",
                     "date": "2025-04-14",
                     "size": 20000000,
