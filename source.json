@@ -12,6 +12,12 @@
             "versions": [
                 {
                     "version": "20.10.4",
+                    "date": "2025-08-15",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/DylanMartoia/YTLite/releases/download/ytp-4/YouTubePlus_5.2b3.ipa",
+                },
+                {
+                    "version": "20.9.4",
                     "date": "2025-08-10",
                     "size": 20000000,
                     "downloadURL": "https://github.com/DylanMartoia/YTLite/releases/download/ytp-3/YouTubePlus_5.2b2.ipa",
