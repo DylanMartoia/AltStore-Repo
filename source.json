@@ -15,6 +15,12 @@
                     "date": "2027-02-27",
                     "size": 20000000,
                     "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-70/21.08.3_YouTubePlus_5.2b4.ipa",
+                },
+                {
+                    "version": "20.10.4",
+                    "date": "2025-08-15",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/DylanMartoia/YTLite/releases/download/ytp-4/YouTubePlus_5.2b3.ipa",
                 }
             ],
             "appPermissions": {
