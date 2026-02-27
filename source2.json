@@ -1,0 +1,58 @@
+{
+    "name": "Dylan Martoïa",
+    "tintColor": "#4185A9",
+    "apps": [
+        {
+            "name": "Youtube Plus Diarrhea",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "dayanch96",
+            "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
+            "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+            "tintColor": "e85567",
+            "versions": [
+                {
+                    "version": "21.08.3",
+                    "date": "2027-02-27",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-70/21.08.3_YouTubePlus_5.2b4.ipa",
+                },
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+                    "com.apple.developer.usernotifications.time-sensitive",
+                    "get-task-allow",
+                    "com.apple.developer.device-information.user-assigned-device-name",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.carplay-audio",
+                    "com.apple.developer.playable-content",
+                    "keychain-access-groups",
+                    "com.apple.developer.group-session",
+                    "com.apple.developer.networking.multicast",
+                    "aps-environment",
+                    "com.apple.developer.applesignin",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.networking.wifi-info"
+                ],
+                "privacy": {
+                    "NSBluetoothPeripheralUsageDescription": "...",
+                    "NSContactsUsageDescription": "...",
+                    "NSLocalNetworkUsageDescription": "...",
+                    "NSLocationWhenInUseUsageDescription": "...",
+                    "NSPhotoLibraryUsageDescription": "...",
+                    "NSUserTrackingUsageDescription": "...",
+                    "NSAppleMusicUsageDescription": "...",
+                    "NSMicrophoneUsageDescription": "...",
+                    "NSCameraUsageDescription": "...",
+                    "NSPhotosUsageDescription": "...",
+                    "NSMusicUsageDescription": "...",
+                    "NSBluetoothUsageDescription": "...",
+                    "NSNetworkUsageDescription": "...",
+                    "NSFaceidUsageDescription": "...",
+                    "NSMotionUsageDescription": "..."
+                }
+            },
+        },
+    ],
+}
