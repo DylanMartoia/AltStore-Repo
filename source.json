@@ -11,6 +11,12 @@
             "tintColor": "e85567",
             "versions": [
                 {
+                    "version": "21.09.2",
+                    "date": "2026-03-06",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-71/21.09.2_YouTubePlus_5.2b4.ipa",
+                },
+                {
                     "version": "21.08.3",
                     "date": "2026-02-27",
                     "size": 20000000,
